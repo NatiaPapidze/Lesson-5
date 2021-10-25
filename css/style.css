@@ -67,3 +67,40 @@
 	padding-left: 40px;
 	padding-top: 66px;
 }
+.section-2{
+	margin-left: 140px;
+}
+.div2-block{
+	position: relative;
+}
+.div-p-block{
+	position: absolute;
+	left: 50px;
+	top: 150px;
+}
+.div-left{
+	display: inline-block;
+	vertical-align: top;
+}
+.div-right{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 40px;
+}
+.block-pic{
+	display: block;
+	margin-bottom: 102PX;
+}
+.footer{
+	height: 200px;
+	background-color: #A6ADB4;
+}
+.div-footer{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 150px;
+	margin-top: 54px;
+}
+.logo-footer{
+	padding-left: 142px;
+}
